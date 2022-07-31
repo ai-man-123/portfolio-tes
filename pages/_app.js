@@ -12,7 +12,7 @@ function MyApp({ Component, pageProps }) {
 
   setTimeout(() => {
     setLoading(false);
-  }, 3800);
+  }, 1000);
 
   useEffect(() => {
     const mouseMove = (e) => setMousePosition({ x: e.clientX, y: e.clientY });
