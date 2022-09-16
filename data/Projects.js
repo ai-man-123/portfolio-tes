@@ -13,7 +13,7 @@ export const Projects = [
     name: 'Weather App',
     slug: 'weather-app',
     img: 'weather-app',
-    demo: 'https://weather.mhdrijal.my.id',
+    demo: 'https://weathers.rizfurr.ml',
     sourceCode: 'https://github.com/euxzy/weather-app',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla alias accusantium commodi quia rerum reprehenderit similique, ipsa cupiditate vel voluptates sapiente, unde ducimus dignissimos saepe consequuntur possimus maxime voluptatibus laudantium.',
