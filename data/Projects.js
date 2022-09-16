@@ -9,7 +9,25 @@ export const Projects = [
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla alias accusantium commodi quia rerum reprehenderit similique, ipsa cupiditate vel voluptates sapiente, unde ducimus dignissimos saepe consequuntur possimus maxime voluptatibus laudantium.',
   },
   {
+
     id: 2,
+
+    name: 'Whatsapp Bot',
+
+    slug: 'botwa',
+
+    img: 'botws',
+
+    demo: 'https://bot.rizfurr.ml',
+
+    sourceCode: '',
+
+    description:
+
+      'Multi Device Whatsapp Bot',
+  },
+  {
+    id: 3,
     name: 'Weather App',
     slug: 'weather-app',
     img: 'weather-app',
@@ -19,7 +37,7 @@ export const Projects = [
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla alias accusantium commodi quia rerum reprehenderit similique, ipsa cupiditate vel voluptates sapiente, unde ducimus dignissimos saepe consequuntur possimus maxime voluptatibus laudantium.',
   },
   {
-    id: 3,
+    id: 4,
     name: 'File Uploader',
     slug: 'fileuploader',
     img: 'fileuploader',
@@ -30,7 +48,7 @@ export const Projects = [
   },
  
   {
-    id: 4,
+    id: 5,
     name: 'Coming Soon Project',
     slug: 'coming-soon-project',
     img: 'coming-soon',
