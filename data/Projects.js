@@ -16,7 +16,7 @@ export const Projects = [
 
     slug: 'botwa',
 
-    img: 'botws',
+    img: 'botwa',
 
     demo: 'https://bot.rizfurr.ml',
 
