@@ -6,7 +6,7 @@ import { motion } from 'framer-motion';
 import { useEffect, useState } from 'react';
 
 function MyApp({ Component, pageProps }) {
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(false);
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
   const [customCursor, setCustomCursor] = useState('default');
 
