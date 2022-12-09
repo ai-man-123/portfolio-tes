@@ -30,6 +30,7 @@ function MyApp({ Component, pageProps }) {
 
   return (
     <>
+        (
           <div onMouseEnter={cursorIn} onMouseLeave={cursorOut}>
             <Header />
             <Component {...pageProps} />
