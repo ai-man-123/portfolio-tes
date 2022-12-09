@@ -1,7 +1,7 @@
 import { Html, Head, Main, NextScript } from 'next/document';
 
 
-const image = "https://i.ibb.co/FWGHJYr/IMG-20220916-202231.jpg";
+const image = "https://filezone.my.id/file/k008yn0mngqy4k6fk8sm.jpg";
 const description = "My Website";
 const Document = () => {
   return (
