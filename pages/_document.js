@@ -9,7 +9,7 @@ const Document = () => {
       <Head>
         <meta property="og:image" content={image}/>
         <meta property="og:description" content={description}/>
-        <meta name="description" content="Hewoo My Name Is Rizz, Nice To Meet U" />
+        <meta name="description" content="Hewoo My Name Is Aiman, Nice try. " />
         <meta httpEquiv="Content-Type" content="text/html;charset=UTF-8" />
         <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
         <meta httpEquiv="X-UA-Compatible" content="IE=7" />
