@@ -4,7 +4,7 @@ export const Projects = [
     name: 'Web Downloader',
     slug: 'downloader',
     img: 'downloader',
-    demo: 'https://downloader.rizfurr.ml',
+    demo: 'https://taupe-codfish-cape.cyclic.app',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla alias accusantium commodi quia rerum reprehenderit similique, ipsa cupiditate vel voluptates sapiente, unde ducimus dignissimos saepe consequuntur possimus maxime voluptatibus laudantium.',
   },
@@ -12,13 +12,13 @@ export const Projects = [
 
     id: 2,
 
-    name: 'Whatsapp Bot',
+    name: 'Coming Soon Project',
 
-    slug: 'botwa',
+    slug: 'Coming Soon Project',
 
-    img: 'botwa',
+    img: 'Coming Soon Project',
 
-    demo: 'https://bot.rizfurr.ml',
+    demo: 'https://',
 
     sourceCode: '',
 
@@ -28,21 +28,21 @@ export const Projects = [
   },
   {
     id: 3,
-    name: 'Weather App',
-    slug: 'weather-app',
-    img: 'weather-app',
-    demo: 'https://weathers.rizfurr.ml',
-    sourceCode: 'https://github.com/euxzy/weather-app',
+    name: 'Coming Soon Project',
+    slug: 'Coming Soon Project',
+    img: 'Coming Soon Project',
+    demo: 'https://',
+    sourceCode: 'https://',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla alias accusantium commodi quia rerum reprehenderit similique, ipsa cupiditate vel voluptates sapiente, unde ducimus dignissimos saepe consequuntur possimus maxime voluptatibus laudantium.',
   },
   {
     id: 4,
-    name: 'File Uploader',
-    slug: 'fileuploader',
-    img: 'fileuploader',
-    demo: 'https://file.rizfurr.ml',
-    sourceCode: 'https://github.com/rizzydev81/file-uploader',
+    name: 'Coming Soon Project',
+    slug: 'Coming Soon Project',
+    img: 'Coming Soon Project',
+    demo: 'https://',
+    sourceCode: 'https://',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla alias accusantium commodi quia rerum reprehenderit similique, ipsa cupiditate vel voluptates sapiente, unde ducimus dignissimos saepe consequuntur possimus maxime voluptatibus laudantium.',
   },
