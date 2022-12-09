@@ -16,7 +16,7 @@ export const Projects = [
 
     slug: 'Coming Soon Project',
 
-    img: 'Coming Soon Project',
+    img: 'coming-soon',
 
     demo: 'https://',
 
@@ -24,13 +24,13 @@ export const Projects = [
 
     description:
 
-      'Multi Device Whatsapp Bot',
+      '.',
   },
   {
     id: 3,
     name: 'Coming Soon Project',
     slug: 'Coming Soon Project',
-    img: 'Coming Soon Project',
+    img: 'coming-soon',
     demo: 'https://',
     sourceCode: 'https://',
     description:
@@ -40,7 +40,7 @@ export const Projects = [
     id: 4,
     name: 'Coming Soon Project',
     slug: 'Coming Soon Project',
-    img: 'Coming Soon Project',
+    img: 'coming-soon',
     demo: 'https://',
     sourceCode: 'https://',
     description:
