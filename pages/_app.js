@@ -30,10 +30,6 @@ function MyApp({ Component, pageProps }) {
 
   return (
     <>
-      {loading ? (
-        <LoadingPage />
-      ) : (
-        <>
           <div onMouseEnter={cursorIn} onMouseLeave={cursorOut}>
             <Header />
             <Component {...pageProps} />
